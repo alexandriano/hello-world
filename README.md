@@ -1,2 +1,6 @@
 # hello-world
-Hello world 
+Hello world example
+By alexandros andrianopoulos
+
+
+
